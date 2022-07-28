@@ -1,0 +1,31 @@
+body
+{
+
+}
+
+header button
+{
+border: 2px solid white;
+border-radius: 5px;
+}
+
+.header
+
+   { width: 100%;
+    text-align: center;}
+
+    #copyright
+    {
+        width: 100%;
+        text-align: center;
+        position: sticky;
+        margin-bottom: 0;
+    }
+
+    canvas
+    {
+border-radius: 7;
+border-style: double;
+border-width: 7px;
+border-color:rgb(0, 0, 106);
+    }
